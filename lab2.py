@@ -1,6 +1,6 @@
 """This module provides an implementation of the Bag ADT.
 
-The ADT is implemented in class Bag.
+The ADT is implemented in class Vector.
 
 Author: Yue Hu
 """
